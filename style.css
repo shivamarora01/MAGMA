@@ -292,7 +292,7 @@ body {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background-image: pexels-mo-eid-10771000.jpg;
+    background-image: url('pexels-mo-eid-10771000.jpg');
     background-size: cover;
     left: 5%;
 }
