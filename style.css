@@ -410,9 +410,11 @@ body {
 .page12-inner>h1{
     font-size: 5vw;
     font-weight: 100;
+  color: #932727;
 }
 .page12-inner>p{
     font-size: 1.3vw;
+  color: #100d0d;
 }
 
 
