@@ -390,6 +390,11 @@ body {
     top: 20%;
     right: 10%;
 }
+.page12-lefter>video{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
 .page12-inner{
     position: absolute;
     width: 40%
