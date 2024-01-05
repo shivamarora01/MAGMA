@@ -391,8 +391,7 @@ body {
 }
 .page12-lefter>video{
   height: 100%;
-  margin: 0% 20%;
- margin-top: 10%;
+  margin: 5% 20%;;
   width: 40%;
   object-fit: cover;
 }
