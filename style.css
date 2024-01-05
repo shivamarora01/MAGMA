@@ -387,6 +387,7 @@ body {
 .page12-lefter{
     position: absolute;
     width: 40%
+    background-color: red;
     top: 20%;
     right: 10%;
 }
