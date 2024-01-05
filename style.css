@@ -384,8 +384,15 @@ body {
     width: 100vw;
     background-color: #02268e;
 }
+.page12-lefter{
+    position: absolute;
+    width: 40%
+    top: 20%;
+    right: 10%;
+}
 .page12-inner{
     position: absolute;
+    width: 40%
     top: 20%;
     right: 10%;
     color: #fff;
