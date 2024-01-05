@@ -384,6 +384,9 @@ body {
     height: 100vh;
     width: 100vw;
     background-color: #02268e;
+   justify-content: center;
+   align-items: flex-start;
+   overflow: hidden;
 }
 .page12-lefter{
     position: absolute;
